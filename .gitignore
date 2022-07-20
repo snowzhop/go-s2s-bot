@@ -1,0 +1,6 @@
+vosk-linux-*
+vosk-model-*
+converter
+cmd/bot
+cmd/vosk-clients
+cmd/vosk-server/*.wav

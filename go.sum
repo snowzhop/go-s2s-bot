@@ -1,0 +1,8 @@
+github.com/alphacep/vosk-api/go v0.3.42 h1:1cveMA5+73kxCjAh9Vmm2QroEDkbGlYaQjnmwMLgNl8=
+github.com/alphacep/vosk-api/go v0.3.42/go.mod h1:9X8IJsHnFk/b1xyvjlZifo+ZL5VTAx3LW+JQce/eRcA=
+github.com/go-telegram-bot-api/telegram-bot-api/v5 v5.5.1 h1:wG8n/XJQ07TmjbITcGiUaOtXxdrINDz1b0J1w0SzqDc=
+github.com/go-telegram-bot-api/telegram-bot-api/v5 v5.5.1/go.mod h1:A2S0CWkNylc2phvKXWBBdD3K0iGnDBGbzRpISP2zBl8=
+github.com/gorilla/websocket v1.5.0 h1:PPwGk2jz7EePpoHN/+ClbZu8SPxiqlu12wZP/3sWmnc=
+github.com/gorilla/websocket v1.5.0/go.mod h1:YR8l580nyteQvAITg2hZ9XVh4b55+EU/adAjf1fMHhE=
+gopkg.in/hraban/opus.v2 v2.0.0-20220302220929-eeacdbcb92d0 h1:B8lK1KhYrE4H3urNYBAL/UquYftW65IHPY8JP3gpZ4M=
+gopkg.in/hraban/opus.v2 v2.0.0-20220302220929-eeacdbcb92d0/go.mod h1:/L5E7a21VWl8DeuCPKxQBdVG5cy+L0MRZ08B1wnqt7g=
